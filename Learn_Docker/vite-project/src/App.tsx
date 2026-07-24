@@ -16,7 +16,7 @@ function App() {
                     <img src={viteLogo} className="vite" alt="Vite logo" />
                 </div>
                 <div>
-                    <h1>Get started with Docker Arpit Jana</h1>
+                    <h1>Get started with Arpit Jana</h1>
                     <p>
                         Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
                     </p>
@@ -39,7 +39,7 @@ function App() {
                         <li>
                             <a href="https://vite.dev/" target="_blank">
                                 <img className="logo" src={viteLogo} alt="" />
-                                Get Started with VITE + DOCKER
+                                Explore Vite
                             </a>
                         </li>
                         <li>
